@@ -1,7 +1,6 @@
-- 👋 Hi, I’m photography_addictttt
-- 👀 I’m interested in ...photography
+- 👋 Hi, I’m niraj sharma 
+- 👀 I’m interested in ...web development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Instagram
 - 📫 How to reach me nirajsharma9134@gmail.com
 
 <!---
